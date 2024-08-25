@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "MyDailyNote",
+			"path": "C:\\Users\\山崎大輔\\VSCode\\myFoamProject\\myFoamNote\\DailyMyNote"
+		},
+		{
+			"name": "MyVision",
+			"path": "C:\\Users\\山崎大輔\\VSCode\\myFoamProject\\myFoamNote\\MyVision"
+		}
+	],
+	"settings": {
+		"foam.edit.linkReferenceDefinitions": "withExtensions",
+		"foam.files.newNotePath": "currentDir"
+	
+	}
+}
